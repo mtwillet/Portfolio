@@ -17,9 +17,26 @@ Key Points:
 - 3rd Party Libraries (Alamofire, SimpleImageViewer)
 - Peer to Peer sharring (in WIP)
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ZR4BJ9-uPFY
+" target="_blank"><img src="http://img.youtube.com/vi/ZR4BJ9-uPFY/0.jpg" 
+ width="240" height="180" border="10" /></a>
+
+Repo Link - https://github.com/mtwillet/ARCatalog
 
 
 
+## AR Rigging
+And augment reality application designed for the Rigging Industry.
+
+Designed to be a fast way to calculate rigging bridal lengths for arena riggers. Uses AR to identify 2 beam location and the central briadal point, then outputs the notation needing to be marked on the floor for the bridal to be built.
+
+Key Point:
+- Custom tableview cell transitions 
+- 3rd Part Libraries (ViewAnimator, FLAnimatedImage, Popover)
 
 
-
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=1tmCs6ChEUc
+" target="_blank"><img src="http://img.youtube.com/vi/1tmCs6ChEUc/0.jpg" 
+ width="240" height="180" border="10" /></a>
+ 
+Repo Link - https://github.com/mtwillet/AR-Rigging
