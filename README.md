@@ -23,10 +23,13 @@ Key Points:
 
 Repo Link - https://github.com/mtwillet/ARCatalog
 
-
-
+ 
+ 
+ 
+ 
+ 
 ## AR Rigging
-And augment reality application designed for the Rigging Industry.
+An augment reality application designed for the Rigging Industry.
 
 Designed to be a fast way to calculate rigging bridal lengths for arena riggers. Uses AR to identify 2 beam location and the central briadal point, then outputs the notation needing to be marked on the floor for the bridal to be built.
 
