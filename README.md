@@ -16,6 +16,7 @@ Key Points:
 - On-The-Fly download and compiling of AR Scenes
 - 3rd Party Libraries (Alamofire, SimpleImageViewer)
 - Peer to Peer sharring (in WIP)
+- Local data storage
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=ZR4BJ9-uPFY
 " target="_blank"><img src="http://img.youtube.com/vi/ZR4BJ9-uPFY/0.jpg" 
@@ -35,7 +36,7 @@ Designed to be a fast way to calculate rigging bridal lengths for arena riggers.
 
 Key Point:
 - Custom tableview cell transitions 
-- 3rd Part Libraries (ViewAnimator, FLAnimatedImage, Popover)
+- 3rd Party Libraries (ViewAnimator, FLAnimatedImage, Popover)
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=1tmCs6ChEUc
@@ -43,3 +44,15 @@ Key Point:
  width="240" height="180" border="10" /></a>
  
 Repo Link - https://github.com/mtwillet/AR-Rigging
+
+
+
+
+## Handbook
+Designed as to be an reference catalog for the Entertainment Technology Industry, this application is a list view application populated from content via Google Firebase. Designed to change data formates conditionally based on DB responses.
+
+Key Points:
+- Custom tableview cell transitions
+- Google Firebase services
+- 3rd Party Libraries (RevealingSplashView, SVProgressHUD, GoogleSignIn, Firebase Auth/Core.Firestore
+
